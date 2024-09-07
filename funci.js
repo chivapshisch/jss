@@ -31,3 +31,4 @@ function Opyt2(onego, twogo){
 }
 let gopyta2 = Opyt2(100, 100);
 console.log(gopyta2 - gopyta);
+console.log('Пошел нахуй');
