@@ -58,3 +58,14 @@ if ("new" in tru){
 for (let i in tru){
     console.log(tru[i]);
 }
+
+let ytr = 1e5;
+console.log(ytr);
+
+let ty = Math.floor(2.2); /* Math ceil округляет в большую, math округляет до ближайшего целого  */
+console.log(ty);
+console.log(ty.toFixed(1));
+
+console.log(parseFloat("150.58"));
+console.log(parseInt("150.33px"));
+console.log(Math.pow(3, 3));
